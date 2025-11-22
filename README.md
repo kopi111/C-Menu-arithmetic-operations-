@@ -1,16 +1,29 @@
-# C-Menu-arithmetic-operations-
-C Menu arithmetic operations 
+# Menu-Driven Calculator (C)
 
-Program Challenge one
-Write a program that lets the user perform arithmetic operations on two numbers. Your program must be menu driven, allowing the user to select the operation (+, -, *, or /) and input the numbers. Furthermore, your program must consist of following functions:
+Simple C program implementing a menu-driven calculator for basic arithmetic operations.
 
-1. Function showChoice: This function shows the options to the user and explains how to enter data.
+## Features
+- **Addition**: Add two numbers
+- **Subtraction**: Subtract two numbers
+- **Multiplication**: Multiply two numbers
+- **Division**: Divide two numbers (with zero-check)
+- **Menu Interface**: User-friendly text menu
+- **Input Validation**: Basic error handling
 
-2. Function add: This function accepts two number as arguments and returns sum.
+## Technology Stack
+- C Programming Language
+- Standard I/O library
+- Console interface
 
-3. Function subtract: This function accepts two number as arguments and returns their difference.
+## Operations
+1. Addition
+2. Subtraction
+3. Multiplication
+4. Division
+5. Exit
 
-4. Function multiply: This function accepts two number as arguments and returns product.
+## Educational Value
+Demonstrates basic C programming concepts including functions, user input, and control flow.
 
-5. Function divide: This function accepts two number as arguments and returns quotient.
-
+## License
+MIT License
